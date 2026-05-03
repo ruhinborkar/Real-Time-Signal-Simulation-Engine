@@ -114,17 +114,18 @@ python !python project/src/data_generator.py
 
 ```bash
 python !python project/src/stream_simulator.py
-```
+```bash
 
 ### 4. Replay Engine
 
-
-!python project/src/replay_engine.py
-
+```bash
+python !python project/src/replay_engine.py
+```
 
 ### 5. Launch dashboard
-
+```bash
 project/dashboard/app.py
+```
 
 ## 📸 Dashboard Preview
 
