@@ -1,5 +1,5 @@
 # Real-Time-Signal-Simulation-Engine
-# A deterministic, Real-Time-Signal-Simulation-Engine and risk analysis engine that simulates streaming data from multiple agents, detects anomalies using rule-based logic, assigns risk scores, and provides a replayable audit trail with a live dashboard.
+## A deterministic, Real-Time-Signal-Simulation-Engine and risk analysis engine that simulates streaming data from multiple agents, detects anomalies using rule-based logic, assigns risk scores, and provides a replayable audit trail with a live dashboard.
 
 ## Architecture
 Data Generator → Stream Simulator → Anomaly Detection → Risk Engine → Log Storage → Replay Engine → Dashboard
