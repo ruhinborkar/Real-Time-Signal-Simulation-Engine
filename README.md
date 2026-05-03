@@ -120,7 +120,7 @@ python !python project/src/stream_simulator.py
 
 
 !python project/src/replay_engine.py
-'''
+
 
 ### 5. Launch dashboard
 
