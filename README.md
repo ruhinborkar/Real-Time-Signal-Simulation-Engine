@@ -124,11 +124,7 @@ python !python project/src/stream_simulator.py
 
 ### 5. Launch dashboard
 
-```bash
 project/dashboard/app.py
-```
-
----
 
 ## 📸 Dashboard Preview
 
