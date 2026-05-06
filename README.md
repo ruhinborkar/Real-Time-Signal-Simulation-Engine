@@ -128,7 +128,8 @@ project/dashboard/app.py
 
 ## 📸 Dashboard Preview
 
-<img width="1358" height="811" alt="Dashboard" src="https://github.com/user-attachments/assets/439af514-7dc5-4b4b-a3cf-7611ff119e5c" />
+<img width="1409" height="839" alt="Real-Time-Signal-Simulation-Engine" src="https://github.com/user-attachments/assets/7e90a4a1-1d15-4db3-a04d-659c392925b9" />
+
 
 
 ## Design Principles
