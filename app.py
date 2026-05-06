@@ -1,3 +1,4 @@
+%%writefile project/dashboard/app.py
 import streamlit as st
 import pandas as pd
 import json
@@ -36,7 +37,8 @@ def load_logs():
                 "unit_id": r["unit_id"],
                 "status": r["result"]["status"],
                 "risk_score": r["result"]["risk_score"],
-                "reasons": ", ".join(r["result"]["reasons"])
+                "reasons": ", ".join(r["result"]["reasons"]),
+                "recommended_action": r["result"].get("recommended_action", "N/A")
             })
     return pd.DataFrame(data)
 
